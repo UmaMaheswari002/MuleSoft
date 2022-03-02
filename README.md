@@ -1,4 +1,4 @@
-# sqlite_jdbc
+# sQLite_JDBC
   
 1)Connect to the SQLite database (or any Database you know): Learn how to download SQLiteJDBC driver and connect to an existing SQLite database using JDBC.
 
